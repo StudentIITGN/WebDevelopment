@@ -1,0 +1,14 @@
+*{text-align: center;}
+p{
+    color:rgb(160, 160, 236)
+}
+body{
+    background-color:rgb(238, 204, 166);
+
+}
+input{
+    background-color:rgb(213, 224, 154);
+}
+textarea{
+    background-color: rgb(184, 224, 194);
+}
